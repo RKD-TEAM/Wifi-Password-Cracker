@@ -1,4 +1,4 @@
-# Wifi Password Cracker Tool (Brute Force) — README
+# Wifi Password Cracker Tool (Brute Force)
 
 > **Important:** This repository is provided for educational, research, and defensive-security purposes only. Do **NOT** use this tool to access systems, accounts, or data that you do not own or do not have explicit authorization to test. Unauthorized access is illegal and unethical.
 
@@ -33,9 +33,12 @@ This repository **does not** provide or promote malicious activity. If you use t
 
 > **Note:** The repository intentionally omits any automated instructions, scripts, or configurations for attacking real systems. It focuses on defensive insights, measurement, and education.
 
+# Command For Run (Termux):
 ---
+# Just Copy & Paste :-
 ---
-#Command For Run (Termux):
+
+
 1.
 ```
 pkg update && upgrade -y
@@ -48,8 +51,19 @@ pkg install git -y
 ```
 pkg install python -y
 ```
+4.
+```
+git clone https://github.com/RKD-TEAM/Wifi-Password-Cracker
+```
 5.
 ```
 cd Wifi-Password-Cracker
 ```
+6.
+```
+python Crack.py
+```
+
+
+
 
