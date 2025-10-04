@@ -33,10 +33,11 @@ This repository **does not** provide or promote malicious activity. If you use t
 
 > **Note:** The repository intentionally omits any automated instructions, scripts, or configurations for attacking real systems. It focuses on defensive insights, measurement, and education.
 
----
-# Command (For Run In Termux):
----
 
+# Command (For Run In Termux):
+
+
+---
 
 1.
 ```
@@ -62,7 +63,7 @@ cd Wifi-Password-Cracker
 ```
 python Crack.py
 ```
-
+---
 
 
 
